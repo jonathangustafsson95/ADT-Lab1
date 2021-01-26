@@ -1,0 +1,4 @@
+﻿  mainProgram.c
+PCLibs2015.lib(genlib.obj) : warning LNK4099: PDB 'PCLibs2015.pdb' was not found with 'PCLibs2015.lib(genlib.obj)' or at 'C:\Users\Jonathan\source\repos\Labb1Grupp14\Debug\PCLibs2015.pdb'; linking object as if no debug info
+PCLibs2015.lib(random.obj) : warning LNK4099: PDB 'PCLibs2015.pdb' was not found with 'PCLibs2015.lib(random.obj)' or at 'C:\Users\Jonathan\source\repos\Labb1Grupp14\Debug\PCLibs2015.pdb'; linking object as if no debug info
+  Labb1Grupp14.vcxproj -> C:\Users\Jonathan\source\repos\Labb1Grupp14\Debug\Labb1Grupp14.exe
